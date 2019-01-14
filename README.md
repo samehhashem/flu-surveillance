@@ -17,4 +17,4 @@ Build and train a classifier using the data collected from step 1.
 All code is in the file named flu_20466546.py
 Trained classifier is in a file named flu_classifier_20466546.pkl
 
-All files used in the project are in file Project-1
+All files used in the project are in file Project_1
